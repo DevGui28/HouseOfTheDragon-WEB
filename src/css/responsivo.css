@@ -1,0 +1,36 @@
+@media (max-width: 1280px) {
+    body {
+        padding: 0 10px;
+    }
+
+    .carrossel {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .imagem {
+        width: 95%;
+        height: 95%;
+    }
+
+    .botao {
+        width: 20%;
+        height: 20%;
+    }
+
+    .informacoes h1 {
+        margin-bottom: 25px;
+    }
+
+    .informacoes .descricao {
+        max-height: 270px;
+    }
+
+    .botoes-carrossel {
+        flex-wrap: wrap;
+    }
+
+    
+}
+
