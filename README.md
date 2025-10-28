@@ -25,17 +25,33 @@ E pronto! Você poderá navegar pelo carrossel de dragões.
 
 ```
 PROJETO-HTOD
-├── index.html
-├── README.md
 ├── src
-│   ├── css
+│   ├── css 
 │   │   ├── estilos.css
 │   │   ├── reset.css
 │   │   └── responsivo.css
-│   ├── font
+│   ├── font 
 │   │   └── GOT.ttf
 │   ├── img
-│   │   ├── ... (imagens dos dragões)
-│   ├── js
-│   │   └── index.js
+│   │   ├── arrax.png
+│   │   ├── balerion.png
+│   │   ├── canibal.png
+│   │   ├── caraxes.png
+│   │   ├── dragoes.png
+│   │   ├── dreamfyre.png
+│   │   ├── meleys.png
+│   │   ├── moondancer.png
+│   │   ├── seasmoke.png
+│   │   ├── sheepstealer.png
+│   │   ├── silverwing.png
+│   │   ├── sunfyre.png
+│   │   ├── syrax.png
+│   │   ├── tessarion.png
+│   │   ├── vermax.png
+│   │   ├── vermithor.png
+│   │   └── vhagar.png
+│   └── js
+│       └── index.js
+├── README.md
+└── index.html
 ```
