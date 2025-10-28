@@ -27,15 +27,15 @@ E pronto! Você poderá navegar pelo carrossel de dragões.
 PROJETO-HTOD
 ├── index.html
 ├── README.md
-└── src
-    ├── css
-    │   ├── estilos.css
-    │   ├── reset.css
-    │   └── responsivo.css
-    ├── font
-    │   └── GOT.ttf
-    ├── img
-    │   ├── ... (imagens dos dragões)
-    └── js
-        └── index.js
+├── src
+│   ├── css
+│   │   ├── estilos.css
+│   │   ├── reset.css
+│   │   └── responsivo.css
+│   ├── font
+│   │   └── GOT.ttf
+│   ├── img
+│   │   ├── ... (imagens dos dragões)
+│   ├── js
+│   │   └── index.js
 ```
